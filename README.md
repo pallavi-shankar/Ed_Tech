@@ -1,37 +1,33 @@
-# 📚 ED-TECH – E-Learning Platform  
+# 📚 ED-TECH – E-Learning Web Application
 
-ED-TECH is an e-learning platform designed to **help aspiring IT professionals transition into the tech industry**.  
-It provides structured learning pathways, expert-created content, interactive quizzes, and a smooth user experience to make learning engaging and effective.  
-
----
-
-## 🖥️ Features
-
-- 👩‍🎓 **Student-Centric Learning** – Courses designed for beginners to advanced learners  
-- 📚 **Extensive Library** – Articles, tutorials, and reference materials  
-- 🎥 **Video Content** – Step-by-step tutorials by industry experts  
-- 🧩 **Interactive Quizzes** – Challenge-based learning for skill mastery  
-- 🗂️ **User Authentication** – Secure sign-up/login  
-- 📊 **Progress Tracking** – Students can view their progress and results  
-- 📝 **Feedback Module** – Students can share feedback for future improvements  
+ED-TECH is a full-stack e-learning platform designed to guide and support individuals aspiring to excel in the tech industry.  
+It helps learners enroll in courses, access skill-mapped resources, and track their learning journey — all in one place.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features
+- 🎓 **Course Enrollment** – Choose from multiple courses and enroll easily.  
+- 📊 **Dashboard** – View all enrolled courses at one place.  
+- 🗄️ **Database Integration** – Stores user and course data in MySQL.  
+- 🖥️ **Clean UI** – Simple, user-friendly interface with a responsive design.  
+- 📞 **Contact & Support** – Quick way to connect with the ED-TECH team.  
 
-- **Frontend:** HTML, CSS, JavaScript (or React if you used it)  
-- **Backend:** PHP  
+---
+
+## 🏗 Tech Stack
+- **Frontend:** HTML5, CSS3, JSP  
+- **Backend:** Java (Servlets, JDBC)  
 - **Database:** MySQL  
-- **Server:** XAMPP (Apache + MySQL)  
+- **Server:** Apache Tomcat  
+- **Version Control:** Git & GitHub  
 
 ---
-
-## 🧠 Skills Learned
-
-While building ED-TECH, I learned:  
-- ⚙️ **Backend Development with PHP** – CRUD operations, authentication, sessions  
-- 🗄️ **Database Design** – Creating relational tables, handling queries  
-- 🎨 **Frontend Development** – Building user-friendly and responsive UI  
-- 🔐 **Authentication & Authorization** – Managing users securely  
-- 🧠 **System Design Thinking** – Planning modules like quizzes, course management, feedback  
-- 🖇️ **Integration** – Connecting frontend with backend & database  
+🧠 Skills Learned
+Java Servlets & JSP (request/response handling)
+JDBC & MySQL (database connectivity & CRUD operations)
+Frontend development (HTML, CSS, JS)
+MVC pattern for web applications
+Session management for login/logout
+Form validation (client + server)
+Project deployment on Tomcat
+Git & GitHub for version control
